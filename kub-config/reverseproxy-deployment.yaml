@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: reverseproxy
-          image: odili/reverseproxy
+          image: bvgo/reverseproxy
           resources:
             limits:
               memory: '1024Mi'

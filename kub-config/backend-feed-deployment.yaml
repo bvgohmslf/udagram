@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: backend-feed
-          image: odili/udagram-api-feed
+          image: bvgo/udagram-api-feed
           imagePullPolicy: Always
           resources:
             requests:

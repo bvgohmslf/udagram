@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: udagram-frontend
-          image: odili/udagram-frontend
+          image: bvgo/udagram-frontend
           imagePullPolicy: Always
           resources:
             requests:
